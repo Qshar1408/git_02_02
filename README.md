@@ -89,10 +89,24 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 исправить её и выложить исправленный код в продакшн. Мы никуда не будем выкладывать код, но пометим некоторые коммиты тегами и создадим от них ветки. 
 
 1. Создайте легковестный тег `v0.0` на HEAD-коммите и запуште его во все три добавленных на предыдущем этапе `upstream`.
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_007.png)
+
 1. Аналогично создайте аннотированный тег `v0.1`.
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_008.png)
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_009.png)
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_010.png)
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_011.png)
+
 1. Перейдите на страницу просмотра тегов в GitHab (и в других репозиториях) и посмотрите, чем отличаются созданные теги. 
     * в GitHub — https://github.com/YOUR_ACCOUNT/devops-netology/releases;
+      ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_012.png)
     * в GitLab — https://gitlab.com/YOUR_ACCOUNT/devops-netology/-/tags;
+      ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_013.png)
     * в Bitbucket — список тегов расположен в выпадающем меню веток на отдельной вкладке. 
 
 ## Задание 3. Ветки 
