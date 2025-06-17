@@ -114,28 +114,28 @@ https://gitlab.com/YOUR_LOGIN/devops-netology. Изучите предлагае
 Давайте посмотрим, как будет выглядеть история коммитов при создании веток. 
 
 1. Переключитесь обратно на ветку `main`, которая должна быть связана с веткой `main` репозитория на `github`.
-1. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания.
+2. Посмотрите лог коммитов и найдите хеш коммита с названием `Prepare to delete and move`, который был создан в пределах предыдущего домашнего задания.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_014.png)
 
-1. Выполните `git checkout` по хешу найденного коммита.
+3. Выполните `git checkout` по хешу найденного коммита.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_015.png)
 
-1. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
-1. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
+4. Создайте новую ветку `fix`, базируясь на этом коммите `git switch -c fix`.
+5. Отправьте новую ветку в репозиторий на GitHub `git push -u origin fix`.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_016.png)
 
-1. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
+6. Посмотрите, как визуально выглядит ваша схема коммитов: https://github.com/YOUR_ACCOUNT/devops-netology/network.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_017.png)
 
-1. Теперь измените содержание файла `README.md`, добавив новую строчку.
+7. Теперь измените содержание файла `README.md`, добавив новую строчку.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_018.png)
 
-1. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
+8. Отправьте изменения в репозиторий и посмотрите, как изменится схема на странице https://github.com/YOUR_ACCOUNT/devops-netology/network 
 и как изменится вывод команды `git log`.
 
 ![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_019.png)
