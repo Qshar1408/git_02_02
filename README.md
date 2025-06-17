@@ -45,6 +45,9 @@
 1. После регистрации или авторизации в GitLab создайте новый проект, нажав на ссылку `Create a projet`. 
 Желательно назвать также, как и в GitHub — `devops-netology` и `visibility level`, выбрать `Public`.
 1. Галочку `Initialize repository with a README` лучше не ставить, чтобы не пришлось разрешать конфликты.
+
+![git_02_02](https://github.com/Qshar1408/git_02_02/blob/main/img/git_02_001.png)
+
 1. Если вы зарегистрировались при помощи аккаунта в другой системе и не указали пароль, то увидите сообщение:
 `You won't be able to pull or push project code via HTTPS until you set a password on your account`. 
 Тогда перейдите [по ссылке](https://gitlab.com/profile/password/edit) из этого сообщения и задайте пароль. 
